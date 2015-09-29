@@ -1,19 +1,24 @@
-Now what have I may ray
-Bim a Bima Rom a
-now e fin come in a puma
------ My fork wilhams thims ui for whom
-I am fugmn ijink lived, & two
-That decaying wife consume
-Which its his wife faithly hid
-------------
-I lay no her find a tomb
-And beneath this pyramid
------------------
-------------
-When art thou my seventh child
-------------
------- think thy faint few
-Within its ---- mentor mild
-The love of having your wan
-Many these thanks of wis wild
------------
+“My lost William, thou in whom”
+
+<zone type="main">
+<line>With what truth I may say</line>
+<line>Roma Roma Roma</line>
+<line>Non e piu come era prima</line>
+<line><del rend=”strikethrough”>[illegible]</del> My lost William, thou in whom</line>
+<line>Some bright spirit lived, and did</line>
+<line>That decaying robe consume</line>
+<line>Which its <del rend=”strikethrough”>[illegible]</del>  lustre faintly hid,</line>
+<line><del rend=”strikethrough”>[illegible]</del></line>
+<line>Here its ashes find a tomb,</line>
+<line><del rend=”strikethrough”>[illegible]</del>  But beneath this pyramid</line>
+<line><del rend=”strikethrough”>[illegible]</del> </line>
+<line>Thou art not... if a thing divine </line>
+<line>Like thee, can die--thy funeral shrine</line>
+<line>Is thy mother’s grief and mine.</line>
+<line>Where art thou, [illegible word crossed out] my gentle child? <del rend=”strikethrough”>lay</del></line>
+<line><del rend=”strikethrough”>[illegible]</del>  Let me think thy spirit feeds </line>
+<line>Within its [two words crossed out] life intense and mild</line>
+<line>The <del rend=”strikethrough”>[illegible]</del>  love of living leaves and weeds </line>
+<line>Among these tombs and ruins wild;</line>
+<line><del rend=”strikethrough”>[illegible]</del></line>
+</zone>
