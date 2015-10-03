@@ -1,5 +1,9 @@
-“My lost William, thou in whom”
-
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<surface>
+<graphic url=https://raw.githubusercontent.com/umd-mith/ENGL668K/master/images/hu-hm2177-fb046r.jpg>
+<teiHeader>"My lost William, thou in whom"</teiHeader>
+<sourceDoc>
 <zone type="main">
 <line>With what truth I may say</line>
 <line>Roma Roma Roma</line>
@@ -22,3 +26,6 @@
 <line>Among these tombs and ruins wild;</line>
 <line><del rend="strikethrough">[illegible, 3 words]</del></line>
 </zone>
+</sourceDoc>
+</surface>
+</TEI>
