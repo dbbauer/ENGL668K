@@ -1,6 +1,6 @@
+<surface>
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<surface>
 <graphic url=https://raw.githubusercontent.com/umd-mith/ENGL668K/master/images/hu-hm2177-fb046r.jpg>
 <teiHeader>"My lost William, thou in whom"</teiHeader>
 <sourceDoc>
@@ -20,7 +20,7 @@
 <line>Like thee, can die--thy funeral shrine</line>
 <line>Is thy mother’s grief and mine.</line> 
 <space dim="vertical" unit="lines" extent="1"/>
-<line>Where art thou, <del rend="strikethrough"><unclear reason="illegible" extent="1" unit="words"></unclear></del> my gentle <del rend="strikethrough">joy</del></line> child? 
+<line>Where art thou, <del rend="strikethrough"><unclear reason="illegible" extent="1" unit="words"></unclear></del> my gentle <del rend="strikethrough">joy</del></line> <add place="superlinear">child</add>? 
 <line><del rend="strikethrough"><unclear reason="illegible" extent="4" unit="words"></unclear></del>  Let me think thy spirit feeds </line>
 <line>Within its <del rend="strikethrough"><unclear reason="illegible" extent="2" unit="words"></unclear></del> life intense and mild</line>
 <line>The <del rend="strikethrough"><unclear reason="illegible" extent="4" unit="words"></unclear></del>  love of living leaves and weeds </line>
