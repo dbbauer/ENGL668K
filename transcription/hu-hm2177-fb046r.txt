@@ -1,32 +1,33 @@
-<surface>
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 <graphic url=https://raw.githubusercontent.com/umd-mith/ENGL668K/master/images/hu-hm2177-fb046r.jpg>
 <teiHeader>"My lost William, thou in whom"</teiHeader>
 <sourceDoc>
+<surface>
 <zone type="main">
 <line>With what truth I may say</line>
 <line rend="indent1">Roma Roma Roma</line>
 <line>Non e piu come era prima</line>
-<line><del rend="strikethrough"><unclear reason="illegible" extent="2" unit="words"></unclear></del> My lost William, thou in whom</line>
+<line><del rend="strikethrough"><unclear reason="illegible" extent="2" unit="words">moaning William</unclear></del> My lost William, thou in whom</line>
 <line>Some bright spirit lived, and did</line>
 <line>That decaying robe consume</line>
-<line>Which its <del rend="strikethrough"><unclear reason="illegible" extent="2" unit="words"></unclear></del>  lustre faintly hid,</line>
-<line><del rend="strikethrough"><unclear reason="illegible" extent="4" unit="words"></unclear></del></line>
+<line>Which its <del rend="strikethrough"><unclear reason="illegible" extent="2" unit="words">youth hid</unclear></del>  lustre faintly hid,</line>
+<line><del rend="strikethrough"><unclear reason="illegible" extent="4" unit="words">Too soon thy unmade</unclear></del></line>
 <line>Here its ashes find a tomb,</line>
 <line><del rend="strikethrough"><unclear reason="illegible" extent="1" unit="words">And</unclear></del>  But beneath this pyramid</line>
-<line><del rend="strikethrough"><unclear reason="illegible" extent="7" unit="words"></unclear></del> </line>
-<line>Thou art not... if a thing divine </line>
+<line><del rend="strikethrough"><unclear reason="illegible" extent="7" unit="words">Lay thy bones--if thou canst die</unclear></del></line>
+<line>Thou art not... if a thing divine</line>
 <line>Like thee, can die--thy funeral shrine</line>
 <line>Is thy mother’s grief and mine.</line> 
 <space dim="vertical" unit="lines" extent="1"/>
-<line>Where art thou, <del rend="strikethrough"><unclear reason="illegible" extent="1" unit="words"></unclear></del> my gentle <del rend="strikethrough">joy</del></line> <add place="superlinear">child</add>? 
-<line><del rend="strikethrough"><unclear reason="illegible" extent="4" unit="words"></unclear></del>  Let me think thy spirit feeds </line>
-<line>Within its <del rend="strikethrough"><unclear reason="illegible" extent="2" unit="words"></unclear></del> life intense and mild</line>
-<line>The <del rend="strikethrough"><unclear reason="illegible" extent="4" unit="words"></unclear></del>  love of living leaves and weeds </line>
+<line>Where art thou, <del rend="strikethrough"><unclear reason="illegible" extent="1" unit="words">given</unclear></del> my gentle <del rend="strikethrough"><unclear reason="illegible" extent="1" unit="words">given</unclear>boy</del> </line> <add place="superlinear">child</add>? 
+<line><del rend="strikethrough"><unclear reason="illegible" extent="5" unit="words">Dying without my loving words</unclear></del></line>
+<line><del rend="strikethrough"><unclear reason="illegible" extent="3" unit="words">Where can I</unclear></del>Let me think thy spirit feeds</line>
+<line>Within its <del rend="strikethrough"><unclear reason="illegible" extent="1" unit="words">joyful</unclear></del> life intense and mild</line>
+<line>The <del rend="strikethrough"><unclear reason="illegible" extent="2" unit="words">grass having</unclear></del>  love of living leaves and weeds </line>
 <line>Among these tombs and ruins wild;</line>
-<line><del rend="strikethrough"><unclear reason="illegible" extent="3" unit="words"></unclear></del></line>
+<line><del rend="strikethrough"><unclear reason="illegible" extent="3" unit="words">Could Heaven that</unclear></del></line>
 </zone>
-</sourceDoc>
 </surface>
+</sourceDoc>
 </TEI>
