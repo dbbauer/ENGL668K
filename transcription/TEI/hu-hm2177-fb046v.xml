@@ -6,11 +6,11 @@
     <graphic url="../../images/hu-hm2177-fb046v.jpg"/>
         <zone type="main">
             <line>being mighty does not commit</line>
-            <line><del rend="strikethrough"><unclear reason="illegible" extent="5" unit="words"></unclear></del></line>
+            <line><mod><del rend="strikethrough"><unclear reason="illegible" extent="5" unit="words">TEST</unclear></del></mod></line>
             <line>or combination of music +</line>
             <line>language different from thou</line>
-            <line>when have you <del rend="strikethrough"><unclear reason="illegible" extent="1" unit="words"></unclear></del>, if</line>
-            <line>does not consist </line>
+            <line>when have you<del rend="strikethrough"><unclear reason="illegible" extent="1" unit="words"></unclear></del>, if</line>
+            <line>does not consist</line>
             <line>only a<del rend="strikethrough"><unclear reason="illegible" extent="1" unit="words"></unclear></del></line>
         </zone>
 </surface>
