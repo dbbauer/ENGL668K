@@ -4,21 +4,6 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     xml:id="hu-hm2177-fb045v" ulx="0" uly="0" lrx="5412" lry="7216">
     <graphic url="../../images/hu-hm2177-fb045v.jpg"/>
-    <teiHeader>
-    <fileDesc>
-        <titleStmt>
-            <title>My lost William</title>
-        </titleStmt>
-        <publicationStmt>
-            <p></p>
-        </publicationStmt>
-        <sourceDesc>
-            <msDesc>
-                <msIdentifier>MS HM 2177</msIdentifier>
-            </msDesc>
-        </sourceDesc>
-    </fileDesc>
-</teiHeader>
     <handShift new="#pbs" />
     <zone type="left_margin" rotate="90">
         <line>T<del rend="strikethrough">hink not gold</del> or flattery vile</line>
