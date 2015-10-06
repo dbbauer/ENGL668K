@@ -20,5 +20,6 @@
             <line>Like thee, can die--thy funeral shrine</line>
             <line>Is thy mother’s grief and mine.</line>
             <space dim="vertical" unit="lines" extent="1"/>
+            <line>Where art thou, <del rend="strikethrough"><unclear reason="illegible" extent="1" unit="words">given</unclear></del> my gentle <mod>boy</del><add place="superlinear">child</add></mod></line>
         </zone>
 </surface>
