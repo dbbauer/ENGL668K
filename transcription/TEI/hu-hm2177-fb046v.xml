@@ -4,16 +4,13 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     xml:id="hu-hm2177-fb046v" ulx="0" uly="0" lrx="5412" lry="7216">
     <graphic url="../../images/hu-hm2177-fb046v.jpg"/>
-
-<zone type="main">
-
-    <line>being mighty does not commit</line>
-    <line> <del rend="strikethrough"> <unclear reason="illegible" extent="5" unit="words"></unclear></del></line>
-    <line>or combination of music +</line>
-    <line>language different from thou </line>
-    <line> when have you <del rend="strikethrough"><unclear reason="illegible" extent="1" unit="words"></unclear></del>, if </line>
-    <line>does not consist </line>
-    <line> only a <del rend="strikethrough"><unclear reason="illegible" extent="1" unit="words"></unclear></del> </line>
-    
-</zone>
+        <zone type="main">
+            <line>being mighty does not commit</line>
+            <line><del rend="strikethrough"><unclear reason="illegible" extent="5" unit="words"></unclear></del></line>
+            <line>or combination of music +</line>
+            <line>language different from thou</line>
+            <line>when have you <del rend="strikethrough"><unclear reason="illegible" extent="1" unit="words"></unclear></del>, if</line>
+            <line>does not consist </line>
+            <line>only a<del rend="strikethrough"><unclear reason="illegible" extent="1" unit="words"></unclear></del></line>
+        </zone>
 </surface>
