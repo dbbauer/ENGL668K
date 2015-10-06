@@ -19,5 +19,6 @@
             <line>Thou art not... if a thing divine</line>
             <line>Like thee, can die--thy funeral shrine</line>
             <line>Is thy mother’s grief and mine.</line>
+            <space dim="vertical" unit="lines" extent="1"/>
         </zone>
 </surface>
