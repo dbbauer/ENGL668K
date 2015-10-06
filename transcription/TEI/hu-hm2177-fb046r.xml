@@ -20,7 +20,7 @@
             <line>Like thee, can die--thy funeral shrine</line>
             <line>Is thy mother’s grief and mine.</line>
             <space dim="vertical" unit="lines" extent="1"/>
-            <line>Where art thou, <del rend="strikethrough"><unclear reason="illegible" extent="1" unit="words">given</unclear></del> my gentle <del rend="strikethrough"><unclear reason="illegible" extent="1" unit="words">given</unclear>boy</del> </line> <add place="superlinear">child</add>? 
+            <line>Where art thou, <del rend="strikethrough"><unclear reason="illegible" extent="1" unit="words">given</unclear></del> my gentle <mod>boy</del><add place="superlinear">child</add></mod></line>  
             <line><del rend="strikethrough"><unclear reason="illegible" extent="5" unit="words">Dying without my loving words</unclear></del></line>
             <line><del rend="strikethrough"><unclear reason="illegible" extent="3" unit="words">Where can I</unclear></del>Let me think thy spirit feeds</line>
             <line>Within its <del rend="strikethrough"><unclear reason="illegible" extent="1" unit="words">joyful</unclear></del> life intense and mild</line>
