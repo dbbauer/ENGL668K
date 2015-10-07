@@ -12,8 +12,8 @@
         <space dim="vertical" unit="lines" extent="4"/>
         <line rend="indent1">Thou art not... if a thing divine</line>
         <line rend="indent1">Like thee, can die — thy funeral shrine</line>
-        <line rend="indent1">Is thy mother's 
-            <mod><del rend="strikethrough">heart</del>
+        <line rend="indent1">Is thy mother's<mod>
+            <del rend="strikethrough">heart</del>
             <add place="superlinear">heart</add>
             <add place="sublinear">grief</add> &amp; mine</mod></line>
         <space dim="vertical" unit="lines" extent="6"/>
