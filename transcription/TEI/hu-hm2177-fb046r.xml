@@ -9,16 +9,14 @@
             <line rend="indent1">Roma Roma Roma</line>
             <line>Non e piu come era prima</line>
             <line><mod><add place="superlinear">My lost William,</add><del rend="strikethrough"><unclear reason="illegible" extent="2" unit="words">moaning William</unclear></del></mod> thou in whom</line>
-            <line rend="indent1">Some bright spirit lived, and did</line>
+            <line rend="indent1">Some <mod><add place="superlinear">bright</add><del rend="strikethrough"><unclear reason="illegible" extent="1" unit="words">sweet</unclear></del></mod> spirit lived, and did</line>
             <line rend="indent1">That decaying robe consume</line>
-            <line rend="indent2">Which its <del rend="strikethrough"><unclear reason="illegible" extent="2" unit="words">youth hid</unclear></del>  lustre faintly hid,</line>
-            <line rend="indent2"><del rend="strikethrough"><unclear reason="illegible" extent="4" unit="words">Too soon thy unmade</unclear></del></line>
-            <line rend="indent3">ere its ashes find a tomb,</line>
-            <line rend="indent3"><del rend="strikethrough"><unclear reason="illegible" extent="1" unit="words">And</unclear></del>  But beneath this pyramid</line>
+            <line rend="indent2">Which its <mod><add place="superlinear">lustre faintly</add><del rend="strikethrough"><unclear reason="illegible" extent="2" unit="words">youth hid</unclear></del></mod> hid,</line>
+            <line rend="indent2"><mod><del rend="strikethrough"><unclear reason="illegible" extent="4" unit="words">Too soon thy unmade</unclear></del></mod></line>
+            <line rend="indent3">Here its ashes find a tomb,</line>
+            <line rend="indent3"><mod><add place="superlinear">But</add><del rend="strikethrough"><unclear reason="illegible" extent="1" unit="words">And</unclear></del></mod> beneath this pyramid</line>
             <line rend="indent3"><del rend="strikethrough"><unclear reason="illegible" extent="7" unit="words">Lay thy bones--if thou canst die</unclear></del></line>
-            <line rend="indent3">Thou art not... if a thing divine</line>
-            <line rend="indent3">Like thee, can die--thy funeral shrine</line>
-            <line rend="indent3">Is thy mother’s grief and mine.</line>
+            <line rend="indent3"><mod><add place="sublinear"><del rend="strikethrough"><unclear reason="illegible" extent="3" unit="words">To know why</unclear></del></add><del rend="strikethrough"><unclear reason="illegible" extent="7" unit="words">Keep thy bones--there in a shrine</unclear></del></mod></line>
             <space dim="vertical" unit="lines" extent="1"/>
             <line rend="indent2">Where art thou, <del rend="strikethrough"><unclear reason="illegible" extent="1" unit="words">given</unclear></del> my gentle <mod>boy</del><add place="superlinear">child</add></mod></line>             
             <line rend="indent3"><del rend="strikethrough"><unclear reason="illegible" extent="5" unit="words">Dying without my loving words</unclear></del></line>
